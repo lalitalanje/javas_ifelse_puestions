@@ -1,4 +1,4 @@
-//Take two numbers a,b and print the sum, difference, product, quotient and modulus of a & b.
+//1. Take two numbers a,b and print the sum, difference, product, quotient and modulus of a & b.
 // let a = 5 ;
 // let b = 10;
 
